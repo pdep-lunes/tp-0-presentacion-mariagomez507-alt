@@ -1,7 +1,7 @@
 
 ## **Maria Gomez Zambrano **
 
-![Mi foto](C:\Users\user\OneDrive\Desktop pc\paradigmas/foto.jpg)
+![Mi foto](foto.jpeg)
 
 ### legajo 222.360-0
 
