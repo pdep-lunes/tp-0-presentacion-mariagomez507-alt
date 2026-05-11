@@ -1,5 +1,5 @@
 
-## **Maria Gomez Zambrano **
+## **Maria Gomez Zambrano**
 
 ![Mi foto](foto.jpeg)
 
